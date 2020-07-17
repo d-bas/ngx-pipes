@@ -1,0 +1,22 @@
+{
+  "name": "@d-bas/ngx-pipes",
+  "version": "9.0.0",
+  "author": {
+    "name": "Dmitry Bas",
+    "email": "dima.bas@gmail.com"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/d-bas/ngx-pipes"
+  },
+  "private": false,
+  "peerDependencies": {
+    "@angular/common": "^9.1.12",
+    "@angular/core": "^9.1.12",
+    "moment": "^2.27.0"
+  },
+  "dependencies": {
+    "tslib": "^1.10.0",
+    "moment": "^2.27.0"
+  }
+}
